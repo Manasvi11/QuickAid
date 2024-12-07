@@ -2,7 +2,7 @@
 
 QuickAid: Instant First-Aid Guidance, One Click Away!
 
-Check the app Here - [QuickAid](https://08ebea4d09973324a3.gradio.live/)  
+Check the app Here - [QuickAid](https://huggingface.co/spaces/ManasviD/QuikAid)  
 
 
 
