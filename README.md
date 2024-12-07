@@ -2,7 +2,7 @@
 
 QuickAid: Instant First-Aid Guidance, One Click Away!
 
-Check the app Here - [QuickAid](https://naturespotlight.streamlit.app/](https://7d7bebfdbfcf39c7a3.gradio.live)  
+Check the app Here - [QuickAid](https://7d7bebfdbfcf39c7a3.gradio.live)  
 
 
 
